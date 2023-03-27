@@ -1,1 +1,3 @@
 my.prop: from application-dev.yml
+user:
+  role: newTest
