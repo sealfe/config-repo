@@ -3,5 +3,3 @@ user:
   password: passTest002
 refresh:
   cron: 0/5 * * * * ?
-new:
-  str: open
