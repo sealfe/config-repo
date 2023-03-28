@@ -2,11 +2,7 @@ user:
   role: newTest
   password: passTest007
 refresh:
-  cron: 0/8 * * * * ?
+  cron: 0/5 * * * * ?
 new:
   str: open
-management:
-  endpoints:
-    web:
-      exposure:
-        include: "*"
+
