@@ -1,5 +1,5 @@
 user:
   role: newTest
-  password: passTest002
+  password: passTest007
 refresh:
   cron: 0/8 * * * * ?
