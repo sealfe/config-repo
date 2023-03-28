@@ -2,7 +2,7 @@ user:
   role: newTest
   password: passTest007
 refresh:
-  cron: 0/5 * * * * ?
+  cron: 0/10 * * * * ?
 new:
   str: open
 
