@@ -1,8 +1,8 @@
 user:
-  role: newTest01
+  role: newTest02
   password: passTest007
 refresh:
-  cron: 0/5 * * * * ?
+  cron: 0/7 * * * * ?
 new:
   str: open
 
